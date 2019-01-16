@@ -1,0 +1,12 @@
+body {
+    background: hotpink;
+}
+h1 {
+    color: greenyellow;
+}
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 18;
+    color: cyan;
+    border: 10px solid cyan;
+}
